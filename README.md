@@ -1,2 +1,2 @@
 # learn-git
-#####my first step to lrarn git and github
+##### my first step to lrarn git and github
